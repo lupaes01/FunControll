@@ -11,3 +11,4 @@ XlsxWriter
 pyxlsb
 matplotlib
 wordcloud
+db-sqlite3
